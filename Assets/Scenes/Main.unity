@@ -699,7 +699,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fc95be9531e23904c96a7a2f67a7a0ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  npcBehavior: {fileID: 0}
+  npcBehavior: {fileID: 11400000, guid: f507de29222c47047acc9b0c2006a318, type: 2}
 --- !u!4 &959862571
 Transform:
   m_ObjectHideFlags: 0
